@@ -16,6 +16,8 @@
 
 ### One-class
 
+incDFM: Incremental Deep Feature Modeling for Continual Novelty Detection || <font color=orange>[ECCV'22]</font>
+
 -----
 
 ### Set-Vs-Set
