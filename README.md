@@ -18,6 +18,8 @@
 
 incDFM: Incremental Deep Feature Modeling for Continual Novelty Detection || **[ECCV'22]**
 
+Data Invariants to Understand Unsupervised Out-of-Distribution Detection || **[ECCV'22]** 
+
 -----
 
 ### Set-Vs-Set
