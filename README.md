@@ -24,6 +24,10 @@ Data Invariants to Understand Unsupervised Out-of-Distribution Detection || **[E
 
 iDECODe: In-Distribution Equivariance for Conformal Out-of-Distribution Detection || **[AAAI'22]**
 
+Anomaly Detection via Reverse Distillation from One-Class Embedding || **[CVPR'22]**
+
+Gradient-Based Novelty Detection Boosted by Self-Supervised Binary Classification || **[CVPR'22]**
+
 -----
 
 ### Set-Vs-Set
