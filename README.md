@@ -16,9 +16,13 @@
 
 ### One-class
 
+
+
 incDFM: Incremental Deep Feature Modeling for Continual Novelty Detection || **[ECCV'22]**
 
 Data Invariants to Understand Unsupervised Out-of-Distribution Detection || **[ECCV'22]** 
+
+iDECODe: In-Distribution Equivariance for Conformal Out-of-Distribution Detection || **[AAAI'22]**
 
 -----
 
