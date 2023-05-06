@@ -16,6 +16,11 @@
 
 ### One-class
 
+
+Hierarchical Semi-supervised Contrastive Learning for Contamination-Resistant Anomaly Detection || **[ECCV'22]**
+
+Locally Varying Distance Transform for Unsupervised Visual Anomaly Detection || **[ECCV'22]**
+
 incDFM: Incremental Deep Feature Modeling for Continual Novelty Detection || **[ECCV'22]**
 
 Data Invariants to Understand Unsupervised Out-of-Distribution Detection || **[ECCV'22]** 
