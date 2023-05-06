@@ -16,7 +16,7 @@
 
 ### One-class
 
-Anomaly Detection via Reverse Distillation from One-Class Embedding || **[CVPR'22]** || *pretrained*
+Anomaly Detection via Reverse Distillation from One-Class Embedding || '**[CVPR'22]**' || *pretrained*
 
 Gradient-Based Novelty Detection Boosted by Self-Supervised Binary Classification || **[CVPR'22]**
 
