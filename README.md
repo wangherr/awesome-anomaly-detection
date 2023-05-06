@@ -6,8 +6,8 @@
 |----------|------|------|------|------|------|
 | **ICML** | None |      |      |      |      |
 | **ICCV** | Done |      |      |      |      |
-| **ECCV** | None |      |      |      |      |
-| **NIPS** | Done |      |      |      |      |
+| **ECCV** | Done |      |      |      |      |
+| **NIPS** | None |      |      |      |      |
 | **AAAI** | Done |      |      |      |      |
 | **ICLR** | Done | Done |      |      |      |
 | **CVPR** | Done | Done |      |      |      |
