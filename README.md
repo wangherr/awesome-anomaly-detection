@@ -32,5 +32,8 @@ Data Invariants to Understand Unsupervised Out-of-Distribution Detection || **[E
 
 ### Set-Vs-Set
 
+Data Invariants to Understand Unsupervised Out-of-Distribution Detection || **[ECCV'22]**  
+
+
 -----
 
