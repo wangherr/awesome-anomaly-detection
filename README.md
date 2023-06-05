@@ -2,13 +2,14 @@
 
 |          | 2022 | 2023 | 2024 | 2025 | 2026 |
 |----------|------|------|------|------|------|
-| **ICML** | None |      |      |      |      |
-| **ICCV** | Done |      |      |      |      |
-| **ECCV** | Done |      |      |      |      |
-| **NIPS** | None |      |      |      |      |
-| **AAAI** | Done |      |      |      |      |
+| **AAAI** | Done | Todo |      |      |      |
 | **ICLR** | Done | Done |      |      |      |
 | **CVPR** | Done | Done |      |      |      |
+| **ICML** | Done | Todo |      |      |      |
+| **ICCV** | None | Todo |      |      |      |
+| **ECCV** | Done | None |      |      |      |
+| **NIPS** | None | Todo |      |      |      |
+
 
 -----
 
@@ -72,4 +73,65 @@ RODD: A Self-Supervised Approach for Robust Out-of-Distribution Detection || **[
 Generative Probabilistic Novelty Detection with Isometric Adversarial Autoencoders || **[CVPR'22]**
 
 -----
+
+### Industrial
+
+Lossy Compression for Robust Unsupervised Time-Series Anomaly Detection || **[CVPR'23]**
+
+PyramidFlow: High-Resolution Defect Contrastive Localization using Pyramid Normalizing Flow || **[CVPR'23]**
+
+In-painting Radiography Images for Unsupervised Anomaly Detection || **[CVPR'23]**
+
+DSR - A Dual Subspace Re-Projection Network for Surface Anomaly Detection || **[ECCV'22]**  
+
+Natural Synthetic Anomalies for Self-supervised Anomaly Detection and Localization || **[ECCV'22]**  
+
+SPot-the-Difference Self-supervised Pre-training for Anomaly Detection and Segmentation || **[ECCV'22]**  
+
+Pushing the Limits of Fewshot Anomaly Detection in Industry Vision: Graphcore || **[ICLR'22]**
+
+AE-FLOW: Autoencoders with Normalizing Flows for Medical Images Anomaly Detection || **[ICLR'22]**
+
+RGI: robust GAN-inversion for mask-free image inpainting and unsupervised pixel-wise anomaly detection || **[ICLR'22]**
+
+
+Catching Both Gray and Black Swans: Open-set Supervised Anomaly Detection || **[CVPR'22]**
+
+Self-Supervised Predictive Convolutional Attentive Block for Anomaly Detection || **[CVPR'22]**
+
+Towards Total Recall in Industrial Anomaly Detection || **[CVPR'22]**
+
+AnoDDPM: Anomaly Detection with Denoising Diffusion Probabilistic Models using Simplex Noise || **[CVPR'22]**
+
+-----
+
+### Video
+
+Video Anomaly Detection by Solving Decoupled Spatio-Temporal Jigsaw Puzzles || **[ECCV'22]**  
+
+Towards Open Set Video Anomaly Detection || **[ECCV'22]**  
+Self-supervised Sparse Representation for Video Anomaly Detection || **[ECCV'22]**  
+
+Scale-Aware Spatio-Temporal Relation Learning for Video Anomaly Detection || **[ECCV'22]**  
+
+Dynamic Local Aggregation Network with Adaptive Clusterer for Anomaly Detection || **[ECCV'22]**  
+
+Bayesian Nonparametric Submodular Video Partition for Robust Anomaly Detection || **[CVPR'22]**
+
+Generative Cooperative Learning for Unsupervised Video Anomaly Detection || **[CVPR'22]**
+
+Self-Supervised Predictive Convolutional Attentive Block for Anomaly Detection || **[CVPR'22]**
+
+UBnormal: New Benchmark for Supervised Open-Set Video Anomaly Detection || **[CVPR'22]**
+
+Learning Second Order Local Anomaly for General Face Forgery Detection || **[CVPR'22]**
+
+Adversarial Machine Learning Attacks Against Video Anomaly Detection Systems || **[CVPR'22]**
+
+
+A Causal Inference Look at Unsupervised Video Anomaly Detection || **[AAAI'22]**  
+
+Self-Training Multi-Sequence Learning with Transformer for Weakly Supervised Video Anomaly Detection || **[AAAI'22]** 
+
+Comprehensive Regularization in a Bi-directional Predictive Network for Video Anomaly Detection || **[AAAI'22]** 
 
