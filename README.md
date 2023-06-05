@@ -38,6 +38,8 @@ Data Invariants to Understand Unsupervised Out-of-Distribution Detection || **[E
 
 ### Set-Vs-Set
 
+Block Selection Method for Using Feature Norm in Out-of-distribution Detectioni || **[CVPR'23]** 
+
 NON-PARAMETRIC OUTLIER SYNTHESIS || **[ICLR'23]**
 
 RODD: A Self-Supervised Approach for Robust Out-of-Distribution Detection || **[CVPR'22]**
