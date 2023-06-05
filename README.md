@@ -12,6 +12,12 @@
 
 -----
 
+### Dataset
+
+
+
+-----
+
 ### One-class
 
 Anomaly Detection via Reverse Distillation from One-Class Embedding || **[CVPR'22]** || *pretrained*
@@ -32,13 +38,14 @@ Data Invariants to Understand Unsupervised Out-of-Distribution Detection || **[E
 
 ### Set-Vs-Set
 
+Data Invariants to Understand Unsupervised Out-of-Distribution Detection || **[ECCV'22]**  
+
 Out-of-Distribution Detection with Deep Nearest Neighbors || **[ICML'22]**
 
 Partial and Asymmetric Contrastive Learning for Out-of-Distribution Detection in Long-Tailed Recognition ||  **[ICML'22]**
 
 Scaling Out-of-Distribution Detection for Real-World Settings || **[ICML'22]**
 
-Data Invariants to Understand Unsupervised Out-of-Distribution Detection || **[ECCV'22]**  
 
 
 -----
