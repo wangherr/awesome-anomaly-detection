@@ -38,6 +38,14 @@ Data Invariants to Understand Unsupervised Out-of-Distribution Detection || **[E
 
 ### Set-Vs-Set
 
+A Statistical Framework for Efficient Out of Distribution Detection in Deep Neural Networks || **[ICLR'22]**
+
+Revisiting flow generative models for Out-of-distribution detection || **[ICLR'22]**
+
+Igeood: An Information Geometry Approach to Out-of-Distribution Detection || **[ICLR'22]**
+
+NON-PARAMETRIC OUTLIER SYNTHESIS || **[ICLR'22]**
+
 iDECODe: In-Distribution Equivariance for Conformal Out-of-Distribution Detection || **[AAAI'22]**  
 
 Provable Guarantees for Understanding Out-of-Distribution Detection || **[AAAI'22]**  
