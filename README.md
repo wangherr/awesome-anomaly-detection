@@ -38,6 +38,8 @@ Data Invariants to Understand Unsupervised Out-of-Distribution Detection || **[E
 
 ### Set-Vs-Set
 
+NON-PARAMETRIC OUTLIER SYNTHESIS || **[ICLR'23]**
+
 RODD: A Self-Supervised Approach for Robust Out-of-Distribution Detection || **[CVPR'22]**
 
 Generative Probabilistic Novelty Detection with Isometric Adversarial Autoencoders || **[CVPR'22]**
@@ -48,7 +50,6 @@ Revisiting flow generative models for Out-of-distribution detection || **[ICLR'2
 
 Igeood: An Information Geometry Approach to Out-of-Distribution Detection || **[ICLR'22]**
 
-NON-PARAMETRIC OUTLIER SYNTHESIS || **[ICLR'22]**
 
 iDECODe: In-Distribution Equivariance for Conformal Out-of-Distribution Detection || **[AAAI'22]**  
 
