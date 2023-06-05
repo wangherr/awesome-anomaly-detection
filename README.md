@@ -20,9 +20,7 @@
 
 ### One-class
 
-Anomaly Detection via Reverse Distillation from One-Class Embedding || **[CVPR'22]** || *pretrained*
 
-Gradient-Based Novelty Detection Boosted by Self-Supervised Binary Classification || **[CVPR'22]**
 
 iDECODe: In-Distribution Equivariance for Conformal Out-of-Distribution Detection || **[AAAI'22]**
 
@@ -34,6 +32,10 @@ incDFM: Incremental Deep Feature Modeling for Continual Novelty Detection || **[
 
 Data Invariants to Understand Unsupervised Out-of-Distribution Detection || **[ECCV'22]** 
 
+Anomaly Detection via Reverse Distillation from One-Class Embedding || **[CVPR'22]** || *pretrained*
+
+Gradient-Based Novelty Detection Boosted by Self-Supervised Binary Classification || **[CVPR'22]**
+
 -----
 
 ### Set-Vs-Set
@@ -41,10 +43,6 @@ Data Invariants to Understand Unsupervised Out-of-Distribution Detection || **[E
 Block Selection Method for Using Feature Norm in Out-of-distribution Detectioni || **[CVPR'23]** 
 
 NON-PARAMETRIC OUTLIER SYNTHESIS || **[ICLR'23]**
-
-RODD: A Self-Supervised Approach for Robust Out-of-Distribution Detection || **[CVPR'22]**
-
-Generative Probabilistic Novelty Detection with Isometric Adversarial Autoencoders || **[CVPR'22]**
 
 A Statistical Framework for Efficient Out of Distribution Detection in Deep Neural Networks || **[ICLR'22]**
 
@@ -69,7 +67,9 @@ Partial and Asymmetric Contrastive Learning for Out-of-Distribution Detection in
 
 Scaling Out-of-Distribution Detection for Real-World Settings || **[ICML'22]**
 
+RODD: A Self-Supervised Approach for Robust Out-of-Distribution Detection || **[CVPR'22]**
 
+Generative Probabilistic Novelty Detection with Isometric Adversarial Autoencoders || **[CVPR'22]**
 
 -----
 
