@@ -56,7 +56,7 @@ iDECODe: In-Distribution Equivariance for Conformal Out-of-Distribution Detectio
 
 Provable Guarantees for Understanding Out-of-Distribution Detection || **[AAAI'22]**  
 
-Is it all a cluster game? - Exploring Out-of-Distribution Detection based on Clustering in the Embedding Space || **[AAAI'22]**  
+Is it all a cluster game? Exploring Out-of-Distribution Detection based on Clustering in the Embedding Space || **[AAAI'22]**  
 
 Data Invariants to Understand Unsupervised Out-of-Distribution Detection || **[ECCV'22]**  
 
