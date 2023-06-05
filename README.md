@@ -10,7 +10,6 @@
 | **ECCV** | Done | None |      |      |      |
 | **NIPS** | None | Todo |      |      |      |
 
-
 -----
 
 ### Dataset
@@ -20,8 +19,6 @@
 -----
 
 ### One-class
-
-
 
 iDECODe: In-Distribution Equivariance for Conformal Out-of-Distribution Detection || **[AAAI'22]**
 
