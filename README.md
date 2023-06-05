@@ -20,7 +20,7 @@
 
 ### One-class
 
-iDECODe: In-Distribution Equivariance for Conformal Out-of-Distribution Detection || **[AAAI'22]**
+[iDECODe: In-Distribution Equivariance for Conformal Out-of-Distribution Detection](https://github.com/ramneetk/iDECODe/tree/main) || **[AAAI'22]**
 
 Hierarchical Semi-supervised Contrastive Learning for Contamination-Resistant Anomaly Detection || **[ECCV'22]**
 
