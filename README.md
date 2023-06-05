@@ -38,7 +38,9 @@ Data Invariants to Understand Unsupervised Out-of-Distribution Detection || **[E
 
 ### Set-Vs-Set
 
+RODD: A Self-Supervised Approach for Robust Out-of-Distribution Detection || **[CVPR'22]**
 
+Generative Probabilistic Novelty Detection with Isometric Adversarial Autoencoders || **[CVPR'22]**
 
 A Statistical Framework for Efficient Out of Distribution Detection in Deep Neural Networks || **[ICLR'22]**
 
