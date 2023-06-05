@@ -38,6 +38,12 @@ Data Invariants to Understand Unsupervised Out-of-Distribution Detection || **[E
 
 ### Set-Vs-Set
 
+iDECODe: In-Distribution Equivariance for Conformal Out-of-Distribution Detection || **[AAAI'22]**  
+
+Provable Guarantees for Understanding Out-of-Distribution Detection || **[AAAI'22]**  
+
+Is it all a cluster game? - Exploring Out-of-Distribution Detection based on Clustering in the Embedding Space || **[AAAI'22]**  
+
 Data Invariants to Understand Unsupervised Out-of-Distribution Detection || **[ECCV'22]**  
 
 Out-of-Distribution Detection with Deep Nearest Neighbors || **[ICML'22]**
