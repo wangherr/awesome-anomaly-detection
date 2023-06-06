@@ -20,6 +20,8 @@
 
 ### One-class
 
+[OpenMix: Exploring Outlier Samples for Misclassification Detection](https://github.com/Impression2805/OpenMix) || **[CVPR'23]**
+
 [iDECODe: In-Distribution Equivariance for Conformal Out-of-Distribution Detection](https://github.com/ramneetk/iDECODe/tree/main) || **[AAAI'22]**
 
 [Hierarchical Semi-supervised Contrastive Learning for Contamination-Resistant Anomaly Detection](https://github.com/gaoangw/hscl) || **[ECCV'22]**
@@ -38,40 +40,44 @@ Gradient-Based Novelty Detection Boosted by Self-Supervised Binary Classificatio
 
 ### Set-Vs-Set
 
-Block Selection Method for Using Feature Norm in Out-of-distribution Detectioni || **[CVPR'23]** 
+[Block Selection Method for Using Feature Norm in Out-of-distribution Detectioni](https://github.com/gist-ailab/block-selection-for-OOD-detection) || **[CVPR'23]** 
 
-NON-PARAMETRIC OUTLIER SYNTHESIS || **[ICLR'23]**
+[NON-PARAMETRIC OUTLIER SYNTHESIS](https://github.com/deeplearning-wisc/npos) || **[ICLR'23]**
 
 A Statistical Framework for Efficient Out of Distribution Detection in Deep Neural Networks || **[ICLR'22]**
 
 Revisiting flow generative models for Out-of-distribution detection || **[ICLR'22]**
 
-Igeood: An Information Geometry Approach to Out-of-Distribution Detection || **[ICLR'22]**
+[Igeood: An Information Geometry Approach to Out-of-Distribution Detection](https://github.com/edadaltocg/Igeood) || **[ICLR'22]**
 
 
-iDECODe: In-Distribution Equivariance for Conformal Out-of-Distribution Detection || **[AAAI'22]**  
+[iDECODe: In-Distribution Equivariance for Conformal Out-of-Distribution Detection](https://github.com/ramneetk/iDECODe) || **[AAAI'22]**  
 
-Provable Guarantees for Understanding Out-of-Distribution Detection || **[AAAI'22]**  
+[Provable Guarantees for Understanding Out-of-Distribution Detection](https://github.com/peymanmorteza/gem) || **[AAAI'22]**  
 
 Exploring Out-of-Distribution Detection based on Clustering in the Embedding Space || **[AAAI'22]**  
 
-Data Invariants to Understand Unsupervised Out-of-Distribution Detection || **[ECCV'22]**  
+[Data Invariants to Understand Unsupervised Out-of-Distribution Detection](https://github.com/LarsDoorenbos/Data-invariants) || **[ECCV'22]**  
 
-Data Invariants to Understand Unsupervised Out-of-Distribution Detection || **[ECCV'22]**  
+[Data Invariants to Understand Unsupervised Out-of-Distribution Detection](https://github.com/LarsDoorenbos/Data-invariants) || **[ECCV'22]**  
 
-Out-of-Distribution Detection with Deep Nearest Neighbors || **[ICML'22]**
+[Out-of-Distribution Detection with Deep Nearest Neighbors](https://github.com/deeplearning-wisc/knn-ood) || **[ICML'22]**
 
-Partial and Asymmetric Contrastive Learning for Out-of-Distribution Detection in Long-Tailed Recognition ||  **[ICML'22]**
+[Partial and Asymmetric Contrastive Learning for Out-of-Distribution Detection in Long-Tailed Recognition](https://github.com/amazon-science/long-tailed-ood-detection) ||  **[ICML'22]**
 
-Scaling Out-of-Distribution Detection for Real-World Settings || **[ICML'22]**
+[Scaling Out-of-Distribution Detection for Real-World Settings](https://github.com/hendrycks/anomaly-seg) || **[ICML'22]**
 
-RODD: A Self-Supervised Approach for Robust Out-of-Distribution Detection || **[CVPR'22]**
+[RODD: A Self-Supervised Approach for Robust Out-of-Distribution Detection](https://github.com/umarkhalidAI/RODD) || **[CVPR'22]**
 
-Generative Probabilistic Novelty Detection with Isometric Adversarial Autoencoders || **[CVPR'22]**
+[Generative Probabilistic Novelty Detection with Isometric Adversarial Autoencoders || **[CVPR'22]**
 
 -----
 
 ### Industrial
+
+WinCLIP: Zero-/Few-Shot Anomaly Classification and Segmentation || **[CVPR'23]** 
+
+SimpleNet: A Simple Network for Image Anomaly Detection and Localization || **[CVPR'23]**
 
 Lossy Compression for Robust Unsupervised Time-Series Anomaly Detection || **[CVPR'23]**
 
@@ -104,6 +110,8 @@ AnoDDPM: Anomaly Detection with Denoising Diffusion Probabilistic Models using S
 
 ### Video
 
+Video Event Restoration Based on Keyframes for Video Anomaly Detection || **[CVPR'23]** 
+
 Video Anomaly Detection by Solving Decoupled Spatio-Temporal Jigsaw Puzzles || **[ECCV'22]**  
 
 Towards Open Set Video Anomaly Detection || **[ECCV'22]**  
@@ -132,3 +140,24 @@ Self-Training Multi-Sequence Learning with Transformer for Weakly Supervised Vid
 
 Comprehensive Regularization in a Bi-directional Predictive Network for Video Anomaly Detection || **[AAAI'22]** 
 
+-----
+
+### Todo
+
+Prompt-Guided Zero-Shot Anomaly Action Recognition using Pretrained Deep Skeleton Features
+
+SQUID: Deep Feature In-Painting for Unsupervised Anomaly Detection
+
+Normalizing Flow based Feature Synthesis for Outlier-Aware Object Detection
+
+Hierarchical Semantic Contrast for Scene-aware Video Anomaly Detection
+
+DeSTSeg: Segmentation Guided Denoising Student-Teacher for Anomaly Detection
+
+Diversity-Measurable Anomaly Detection
+
+Block Selection Method for Using Feature Norm in Out-of-distribution Detection
+
+Lossy Compression for Robust Unsupervised Time-Series Anomaly Detection
+
+Multimodal Industrial Anomaly Detection via Hybrid Fusion
