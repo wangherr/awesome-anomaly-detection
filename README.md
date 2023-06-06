@@ -57,9 +57,15 @@ Revisiting flow generative models for Out-of-distribution detection || **[ICLR'2
 
 Exploring Out-of-Distribution Detection based on Clustering in the Embedding Space || **[AAAI'22]**  
 
+Gradient-Based Novelty Detection Boosted by Self-Supervised Binary Classification || **[AAAI'22]**  
+
 [Data Invariants to Understand Unsupervised Out-of-Distribution Detection](https://github.com/LarsDoorenbos/Data-invariants) || **[ECCV'22]**  
 
 [Data Invariants to Understand Unsupervised Out-of-Distribution Detection](https://github.com/LarsDoorenbos/Data-invariants) || **[ECCV'22]**  
+
+Semantic Novelty Detection via Relational Reasoning || **[ECCV'22]**  
+
+incDFM: Incremental Deep Feature Modeling for Continual Novelty Detection || **[ECCV'22]**  
 
 [Out-of-Distribution Detection with Deep Nearest Neighbors](https://github.com/deeplearning-wisc/knn-ood) || **[ICML'22]**
 
@@ -67,13 +73,26 @@ Exploring Out-of-Distribution Detection based on Clustering in the Embedding Spa
 
 [Scaling Out-of-Distribution Detection for Real-World Settings](https://github.com/hendrycks/anomaly-seg) || **[ICML'22]**
 
+Breaking Down Out-of-Distribution Detection: Many Methods Based on OOD Training Data Estimate a Combination of the Same Core Quantities || **[ICML'22]**
+
+POEM: Out-of-Distribution Detection with Posterior Sampling || **[ICML'22]**
+
 [RODD: A Self-Supervised Approach for Robust Out-of-Distribution Detection](https://github.com/umarkhalidAI/RODD) || **[CVPR'22]**
 
 [Generative Probabilistic Novelty Detection with Isometric Adversarial Autoencoders || **[CVPR'22]**
 
+Class-wise Thresholding for Robust Out-of-Distribution Detection || **[CVPR'22]**
+
 -----
 
 ### Industrial
+
+Multimodal Industrial Anomaly Detection via Hybrid Fusion
+ || **[CVPR'23]** 
+
+Diversity-Measurable Anomaly Detection || **[CVPR'23]** 
+
+SQUID: Deep Feature In-Painting for Unsupervised Anomaly Detection  || **[CVPR'23]** 
 
 WinCLIP: Zero-/Few-Shot Anomaly Classification and Segmentation || **[CVPR'23]** 
 
@@ -84,6 +103,12 @@ Lossy Compression for Robust Unsupervised Time-Series Anomaly Detection || **[CV
 PyramidFlow: High-Resolution Defect Contrastive Localization using Pyramid Normalizing Flow || **[CVPR'23]**
 
 In-painting Radiography Images for Unsupervised Anomaly Detection || **[CVPR'23]**
+
+Pushing the Limits of Fewshot Anomaly Detection in Industry Vision: Graphcore || **[ICLR'23]**
+
+AE-FLOW: Autoencoders with Normalizing Flows for Medical Images Anomaly Detection || **[ICLR'23]**
+
+RGI: robust GAN-inversion for mask-free image inpainting and unsupervised pixel-wise anomaly detection  || **[ICLR'23]**
 
 DSR - A Dual Subspace Re-Projection Network for Surface Anomaly Detection || **[ECCV'22]**  
 
@@ -97,7 +122,6 @@ AE-FLOW: Autoencoders with Normalizing Flows for Medical Images Anomaly Detectio
 
 RGI: robust GAN-inversion for mask-free image inpainting and unsupervised pixel-wise anomaly detection || **[ICLR'22]**
 
-
 Catching Both Gray and Black Swans: Open-set Supervised Anomaly Detection || **[CVPR'22]**
 
 Self-Supervised Predictive Convolutional Attentive Block for Anomaly Detection || **[CVPR'22]**
@@ -110,7 +134,15 @@ AnoDDPM: Anomaly Detection with Denoising Diffusion Probabilistic Models using S
 
 ### Video
 
-Video Event Restoration Based on Keyframes for Video Anomaly Detection || **[CVPR'23]** 
+Diversity-Measurable Anomaly Detection || **[CVPR'23]** 
+
+DeSTSeg: Segmentation Guided Denoising Student-Teacher for Anomaly Detection || **[CVPR'23]** 
+
+Hierarchical Semantic Contrast for Scene-aware Video Anomaly Detection || **[CVPR'23]** 
+
+Prompt-Guided Zero-Shot Anomaly Action Recognition using Pretrained Deep Skeleton Features || **[CVPR'23]** 
+
+Video Event Restoration Based on Keyframes for Video Anomaly Detection || **[CVPR'23]**
 
 Video Anomaly Detection by Solving Decoupled Spatio-Temporal Jigsaw Puzzles || **[ECCV'22]**  
 
@@ -142,22 +174,37 @@ Comprehensive Regularization in a Bi-directional Predictive Network for Video An
 
 -----
 
+### Object Detection
+
+Normalizing Flow based Feature Synthesis for Outlier-Aware Object Detection || **[CVPR'23]** 
+
+-----
+
+### Time
+
+Lossy Compression for Robust Unsupervised Time-Series Anomaly Detection || **[CVPR'23]** 
+
+TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis || **[ICLR'23]**
+
+### 3D
+
+Robust Outlier Rejection for 3D Registration with Variational Bayes || **[CVPR'23]** 
+
+-----
+
 ### Todo
 
-Prompt-Guided Zero-Shot Anomaly Action Recognition using Pretrained Deep Skeleton Features
 
-SQUID: Deep Feature In-Painting for Unsupervised Anomaly Detection
 
-Normalizing Flow based Feature Synthesis for Outlier-Aware Object Detection
 
-Hierarchical Semantic Contrast for Scene-aware Video Anomaly Detection
 
-DeSTSeg: Segmentation Guided Denoising Student-Teacher for Anomaly Detection
 
-Diversity-Measurable Anomaly Detection
 
-Block Selection Method for Using Feature Norm in Out-of-distribution Detection
 
-Lossy Compression for Robust Unsupervised Time-Series Anomaly Detection
 
-Multimodal Industrial Anomaly Detection via Hybrid Fusion
+
+
+
+
+
+
