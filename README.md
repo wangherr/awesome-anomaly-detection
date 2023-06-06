@@ -73,13 +73,11 @@ incDFM: Incremental Deep Feature Modeling for Continual Novelty Detection || **[
 
 [Scaling Out-of-Distribution Detection for Real-World Settings](https://github.com/hendrycks/anomaly-seg) || **[ICML'22]**
 
-Breaking Down Out-of-Distribution Detection: Many Methods Based on OOD Training Data Estimate a Combination of the Same Core Quantities || **[ICML'22]**
-
-POEM: Out-of-Distribution Detection with Posterior Sampling || **[ICML'22]**
+[POEM: Out-of-Distribution Detection with Posterior Sampling](https://github.com/deeplearning-wisc/poem) || **[ICML'22]**
 
 [RODD: A Self-Supervised Approach for Robust Out-of-Distribution Detection](https://github.com/umarkhalidAI/RODD) || **[CVPR'22]**
 
-[Generative Probabilistic Novelty Detection with Isometric Adversarial Autoencoders || **[CVPR'22]**
+Generative Probabilistic Novelty Detection with Isometric Adversarial Autoencoders || **[CVPR'22]**
 
 Class-wise Thresholding for Robust Out-of-Distribution Detection || **[CVPR'22]**
 
