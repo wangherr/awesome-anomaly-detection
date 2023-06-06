@@ -28,7 +28,7 @@
 
 Locally Varying Distance Transform for Unsupervised Visual Anomaly Detection || **[ECCV'22]**
 
-[incDFM: Incremental Deep Feature Modeling for Continual Novelty Detection](https://github.com/amandari/incDFM_ECCV22) || **[ECCV'22]**
+
 
 [Data Invariants to Understand Unsupervised Out-of-Distribution Detection](https://github.com/LarsDoorenbos/Data-invariants) || **[ECCV'22]** 
 
@@ -64,8 +64,6 @@ Gradient-Based Novelty Detection Boosted by Self-Supervised Binary Classificatio
 [Data Invariants to Understand Unsupervised Out-of-Distribution Detection](https://github.com/LarsDoorenbos/Data-invariants) || **[ECCV'22]**  
 
 Semantic Novelty Detection via Relational Reasoning || **[ECCV'22]**  
-
-incDFM: Incremental Deep Feature Modeling for Continual Novelty Detection || **[ECCV'22]**  
 
 [Out-of-Distribution Detection with Deep Nearest Neighbors](https://github.com/deeplearning-wisc/knn-ood) || **[ICML'22]**
 
@@ -189,6 +187,13 @@ TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis || **[
 ### 3D
 
 Robust Outlier Rejection for 3D Registration with Variational Bayes || **[CVPR'23]** 
+
+-----
+
+### Continue
+
+[incDFM: Incremental Deep Feature Modeling for Continual Novelty Detection](https://github.com/amandari/incDFM_ECCV22) || **[ECCV'22]**
+
 
 -----
 
