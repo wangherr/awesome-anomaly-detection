@@ -186,7 +186,7 @@ TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis || **[
 
 ### 3D
 
-Robust Outlier Rejection for 3D Registration with Variational Bayes || **[CVPR'23]** 
+Robust Outlier Rejection for 3D Registration with Variational Bayes || **[CVPR'23]** || pretrained 
 
 -----
 
