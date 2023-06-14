@@ -194,7 +194,7 @@ Robust Outlier Rejection for 3D Registration with Variational Bayes || **[CVPR'2
 
 [incDFM: Incremental Deep Feature Modeling for Continual Novelty Detection](https://github.com/amandari/incDFM_ECCV22) || **[ECCV'22]**
 
-Continual Learning Based on OOD Detection and Task Masking || **[CVPR'22]**
+Continual Learning Based on OOD Detection and Task Masking || **[CVPRW'22]**
 
 Continual Novelty Detection || **[PMLR'22]**
 
