@@ -42,7 +42,7 @@ Locally Varying Distance Transform for Unsupervised Visual Anomaly Detection || 
 
 [//]: # (Revisiting flow generative models for Out-of-distribution detection || **[ICLR'22]**)
 
-[Igeood: An Information Geometry Approach to Out-of-Distribution Detection](https://github.com/edadaltocg/Igeood) || **[ICLR'22]**
+[Igeood: An Information Geometry Approach to Out-of-Distribution Detection](https://github.com/edadaltocg/Igeood) || **[ICLR'22]** || pretrained
 
 
 [iDECODe: In-Distribution Equivariance for Conformal Out-of-Distribution Detection](https://github.com/ramneetk/iDECODe) || **[AAAI'22]**  
