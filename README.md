@@ -38,7 +38,7 @@ Locally Varying Distance Transform for Unsupervised Visual Anomaly Detection || 
 
 [NON-PARAMETRIC OUTLIER SYNTHESIS](https://github.com/deeplearning-wisc/npos) || **[ICLR'23]**
 
-A Statistical Framework for Efficient Out of Distribution Detection in Deep Neural Networks || **[ICLR'22]**
+[//]: # (A Statistical Framework for Efficient Out of Distribution Detection in Deep Neural Networks || **[ICLR'22]** || pretrained)
 
 Revisiting flow generative models for Out-of-distribution detection || **[ICLR'22]**
 
