@@ -34,16 +34,9 @@ Locally Varying Distance Transform for Unsupervised Visual Anomaly Detection || 
 
 ### Set-Vs-Set
 
-[Block Selection Method for Using Feature Norm in Out-of-distribution Detectioni](https://github.com/gist-ailab/block-selection-for-OOD-detection) || **[CVPR'23]** || pretrained
+
 
 [NON-PARAMETRIC OUTLIER SYNTHESIS](https://github.com/deeplearning-wisc/npos) || **[ICLR'23]**
-
-[//]: # (A Statistical Framework for Efficient Out of Distribution Detection in Deep Neural Networks || **[ICLR'22]** || pretrained)
-
-[//]: # (Revisiting flow generative models for Out-of-distribution detection || **[ICLR'22]**)
-
-[Igeood: An Information Geometry Approach to Out-of-Distribution Detection](https://github.com/edadaltocg/Igeood) || **[ICLR'22]** || pretrained
-
 
 [iDECODe: In-Distribution Equivariance for Conformal Out-of-Distribution Detection](https://github.com/ramneetk/iDECODe) || **[AAAI'22]**  
 
@@ -51,22 +44,23 @@ Locally Varying Distance Transform for Unsupervised Visual Anomaly Detection || 
 
 Exploring Out-of-Distribution Detection based on Clustering in the Embedding Space || **[AAAI'22]**  
 
-Gradient-Based Novelty Detection Boosted by Self-Supervised Binary Classification || **[AAAI'22]**   || pretrained
-
 [Data Invariants to Understand Unsupervised Out-of-Distribution Detection](https://github.com/LarsDoorenbos/Data-invariants) || **[ECCV'22]**  
-
-Semantic Novelty Detection via Relational Reasoning || **[ECCV'22]**  
 
 [Out-of-Distribution Detection with Deep Nearest Neighbors](https://github.com/deeplearning-wisc/knn-ood) || **[ICML'22]**
 
 [Partial and Asymmetric Contrastive Learning for Out-of-Distribution Detection in Long-Tailed Recognition](https://github.com/amazon-science/long-tailed-ood-detection) ||  **[ICML'22]**
 
+Generative Probabilistic Novelty Detection with Isometric Adversarial Autoencoders || **[CVPR'22]**
 
-[POEM: Out-of-Distribution Detection with Posterior Sampling](https://github.com/deeplearning-wisc/poem) || **[ICML'22]** || OE
+[Block Selection Method for Using Feature Norm in Out-of-distribution Detectioni](https://github.com/gist-ailab/block-selection-for-OOD-detection) || **[CVPR'23]** || pretrained
+
+[Igeood: An Information Geometry Approach to Out-of-Distribution Detection](https://github.com/edadaltocg/Igeood) || **[ICLR'22]** || pretrained
 
 [RODD: A Self-Supervised Approach for Robust Out-of-Distribution Detection](https://github.com/umarkhalidAI/RODD) || **[CVPR'22]** || pretrained
 
-Generative Probabilistic Novelty Detection with Isometric Adversarial Autoencoders || **[CVPR'22]**
+Gradient-Based Novelty Detection Boosted by Self-Supervised Binary Classification || **[AAAI'22]**   || pretrained
+
+[POEM: Out-of-Distribution Detection with Posterior Sampling](https://github.com/deeplearning-wisc/poem) || **[ICML'22]** || OE
 
 Class-wise Thresholding for Robust Out-of-Distribution Detection || **[CVPR'22]** || pretrained
 
