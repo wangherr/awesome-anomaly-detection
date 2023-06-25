@@ -34,7 +34,7 @@ Locally Varying Distance Transform for Unsupervised Visual Anomaly Detection || 
 
 ### Set-Vs-Set
 
-[Block Selection Method for Using Feature Norm in Out-of-distribution Detectioni](https://github.com/gist-ailab/block-selection-for-OOD-detection) || **[CVPR'23]** 
+[Block Selection Method for Using Feature Norm in Out-of-distribution Detectioni](https://github.com/gist-ailab/block-selection-for-OOD-detection) || **[CVPR'23]** || pretrained
 
 [NON-PARAMETRIC OUTLIER SYNTHESIS](https://github.com/deeplearning-wisc/npos) || **[ICLR'23]**
 
@@ -51,9 +51,7 @@ Locally Varying Distance Transform for Unsupervised Visual Anomaly Detection || 
 
 Exploring Out-of-Distribution Detection based on Clustering in the Embedding Space || **[AAAI'22]**  
 
-Gradient-Based Novelty Detection Boosted by Self-Supervised Binary Classification || **[AAAI'22]**  
-
-[Data Invariants to Understand Unsupervised Out-of-Distribution Detection](https://github.com/LarsDoorenbos/Data-invariants) || **[ECCV'22]**  
+Gradient-Based Novelty Detection Boosted by Self-Supervised Binary Classification || **[AAAI'22]**   || pretrained
 
 [Data Invariants to Understand Unsupervised Out-of-Distribution Detection](https://github.com/LarsDoorenbos/Data-invariants) || **[ECCV'22]**  
 
@@ -63,15 +61,14 @@ Semantic Novelty Detection via Relational Reasoning || **[ECCV'22]**
 
 [Partial and Asymmetric Contrastive Learning for Out-of-Distribution Detection in Long-Tailed Recognition](https://github.com/amazon-science/long-tailed-ood-detection) ||  **[ICML'22]**
 
-[Scaling Out-of-Distribution Detection for Real-World Settings](https://github.com/hendrycks/anomaly-seg) || **[ICML'22]**
 
-[POEM: Out-of-Distribution Detection with Posterior Sampling](https://github.com/deeplearning-wisc/poem) || **[ICML'22]**
+[POEM: Out-of-Distribution Detection with Posterior Sampling](https://github.com/deeplearning-wisc/poem) || **[ICML'22]** || OE
 
-[RODD: A Self-Supervised Approach for Robust Out-of-Distribution Detection](https://github.com/umarkhalidAI/RODD) || **[CVPR'22]**
+[RODD: A Self-Supervised Approach for Robust Out-of-Distribution Detection](https://github.com/umarkhalidAI/RODD) || **[CVPR'22]** || pretrained
 
 Generative Probabilistic Novelty Detection with Isometric Adversarial Autoencoders || **[CVPR'22]**
 
-Class-wise Thresholding for Robust Out-of-Distribution Detection || **[CVPR'22]**
+Class-wise Thresholding for Robust Out-of-Distribution Detection || **[CVPR'22]** || pretrained
 
 -----
 
