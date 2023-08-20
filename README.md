@@ -20,6 +20,8 @@
 
 ### One-class
 
+Mean-Shifted Contrastive Loss for Anomaly Detection || **[AAAI'23]** || pretrained
+
 [Deep Anomaly Detection under Labeling Budget Constraints](https://github.com/aodongli/Active-SOEL/tree/main/NTL) || **[ICML'23]** || OE
 
 [OpenMix: Exploring Outlier Samples for Misclassification Detection](https://github.com/Impression2805/OpenMix) || **[CVPR'23]**
@@ -36,7 +38,25 @@ Locally Varying Distance Transform for Unsupervised Visual Anomaly Detection || 
 
 ### Set-Vs-Set
 
+Towards In-Distribution Compatible Out-of-Distribution Detection || **[AAAI'23]**
 
+On the Connection between Invariant Learning and Adversarial Training for Out-of-Distribution Generalization || **[AAAI'23]**
+
+Certifiable Out-of-Distribution Generalization || **[AAAI'23]**
+
+Bayesian Cross-Modal Alignment Learning for Few-Shot Out-of-Distribution Generalization || **[AAAI'23]**
+
+DrugOOD: Out-of-Distribution Dataset Curator and Benchmark for AI-Aided Drug Discovery – a Focus on Affinity Prediction Problems with Noise Annotations || **[AAAI'23]**
+
+Out-of-Distribution Generalization by Neural-Symbolic Joint Training || **[AAAI'23]**
+
+COSMOS: Catching Out-of-Context Image Misuse Using Self-Supervised Learning || **[AAAI'23]**
+
+Out-of-Distribution Detection Is Not All You Need || **[AAAI'23]**
+
+READ: Aggregating Reconstruction Error into Out-of-Distribution Detection || **[AAAI'23]**
+
+Robustness to Spurious Correlations Improves Semantic Out-of-Distribution Detection || **[AAAI'23]**
 
 [NON-PARAMETRIC OUTLIER SYNTHESIS](https://github.com/deeplearning-wisc/npos) || **[ICLR'23]**
 
@@ -118,6 +138,12 @@ AnoDDPM: Anomaly Detection with Denoising Diffusion Probabilistic Models using S
 -----
 
 ### Video
+
+Dual Memory Units with Uncertainty Regulation for Weakly Supervised Video Anomaly Detection || **[AAAI'23]**
+
+Learning Event-Relevant Factors for Video Anomaly Detection || **[AAAI'23]**
+
+MGFN: Magnitude-Contrastive Glance-and-Focus Network for Weakly-Supervised Video Anomaly Detection || **[AAAI'23]**
 
 Diversity-Measurable Anomaly Detection || **[CVPR'23]** 
 
@@ -205,17 +231,8 @@ Estimating the Contamination Factor’s Distribution in Unsupervised Anomaly Det
 
 ### Todo
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+Clustering What Matters: Optimal Approximation for Clustering with Outliers || **[AAAI'23]**
+Diversity Maximization in the Presence of Outliers || **[AAAI'23]**
+Detecting Anomalous Networks of Opioid Prescribers and Dispensers in Prescription Drug Data || **[AAAI'23]**
+Attention-Conditioned Augmentations for Self-Supervised Anomaly Detection and Localization || **[AAAI'23]**
 
