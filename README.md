@@ -22,7 +22,7 @@
 
 [//]: # (Mean-Shifted Contrastive Loss for Anomaly Detection || **[AAAI'23]** || pretrained)
 
-[Deep Anomaly Detection under Labeling Budget Constraints](https://github.com/aodongli/Active-SOEL/tree/main/NTL) || **[ICML'23]** || OE
+[Deep Anomaly Detection under Labeling Budget Constraints](https://github.com/aodongli/Active-SOEL/tree/main/NTL) || **[ICML'23]** || pretrained
 
 [OpenMix: Exploring Outlier Samples for Misclassification Detection](https://github.com/Impression2805/OpenMix) || **[CVPR'23]**
 
