@@ -24,7 +24,7 @@
 
 [Deep Anomaly Detection under Labeling Budget Constraints](https://github.com/aodongli/Active-SOEL/tree/main/NTL) || **[ICML'23]** || pretrained
 
-[OpenMix: Exploring Outlier Samples for Misclassification Detection](https://github.com/Impression2805/OpenMix) || **[CVPR'23]**
+[OpenMix: Exploring Outlier Samples for Misclassification Detection](https://github.com/Impression2805/OpenMix) || **[CVPR'23]** || OE
 
 [iDECODe: In-Distribution Equivariance for Conformal Out-of-Distribution Detection](https://github.com/ramneetk/iDECODe/tree/main) || **[AAAI'22]**
 
