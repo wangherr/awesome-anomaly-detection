@@ -20,7 +20,7 @@
 
 ### One-class
 
-Mean-Shifted Contrastive Loss for Anomaly Detection || **[AAAI'23]** || pretrained
+[//]: # (Mean-Shifted Contrastive Loss for Anomaly Detection || **[AAAI'23]** || pretrained)
 
 [Deep Anomaly Detection under Labeling Budget Constraints](https://github.com/aodongli/Active-SOEL/tree/main/NTL) || **[ICML'23]** || OE
 
