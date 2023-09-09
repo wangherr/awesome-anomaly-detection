@@ -37,6 +37,10 @@ Locally Varying Distance Transform for Unsupervised Visual Anomaly Detection || 
 
 [WDiscOOD: Out-of-Distribution Detection via Whitened Linear Discriminant Analysis](https://github.com/ivalab/WDiscOOD) || **[ICCV'23]**
 
+Block Selection Method for Using FeatureNorm in Out-of-Distribution Detection || **[CVPR'23]**
+
+LINe: Out-of-Distribution Detection by Leveraging Important Neurons || **[CVPR'23]**
+
 Rethinking Out-of-distribution (OOD) Detection:Masked Image Modeling is All You Need || **[CVPR'23]**
 
 GEN: Pushing the Limits of Softmax-Based Out-of-Distribution Detection || **[CVPR'23]** 
