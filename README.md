@@ -31,9 +31,15 @@ Locally Varying Distance Transform for Unsupervised Visual Anomaly Detection || 
 
 ### Set-Vs-Set
 
+
+
 [DiffGuard: Semantic Mismatch-Guided Out-of-Distribution Detection using Pre-trained Diffusion Models](https://github.com/cure-lab/DiffGuard) || **[ICCV'23]**
 
 [WDiscOOD: Out-of-Distribution Detection via Whitened Linear Discriminant Analysis](https://github.com/ivalab/WDiscOOD) || **[ICCV'23]**
+
+Rethinking Out-of-distribution (OOD) Detection:Masked Image Modeling is All You Need || **[CVPR'23]**
+
+GEN: Pushing the Limits of Softmax-Based Out-of-Distribution Detection || **[CVPR'23]** 
 
 [NON-PARAMETRIC OUTLIER SYNTHESIS](https://github.com/deeplearning-wisc/npos) || **[ICLR'23]**
 
