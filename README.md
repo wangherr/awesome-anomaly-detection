@@ -29,7 +29,7 @@ Mean-Shifted Contrastive Loss for Anomaly Detection || **[AAAI'23]** || pretrain
 [iDECODe: In-Distribution Equivariance for Conformal Out-of-Distribution Detection](https://github.com/ramneetk/iDECODe/tree/main) || **[AAAI'22]**
 
 
-Locally Varying Distance Transform for Unsupervised Visual Anomaly Detection || **[ECCV'22]**
+Locally Varying Distance Transform for Unsupervised Visual Anomaly Detection || **[ECCV'22]** || OE
 
 
 [Data Invariants to Understand Unsupervised Out-of-Distribution Detection](https://github.com/LarsDoorenbos/Data-invariants) || **[ECCV'22]** 
