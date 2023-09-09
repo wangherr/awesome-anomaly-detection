@@ -31,6 +31,10 @@ Locally Varying Distance Transform for Unsupervised Visual Anomaly Detection || 
 
 ### Set-Vs-Set
 
+[DiffGuard: Semantic Mismatch-Guided Out-of-Distribution Detection using Pre-trained Diffusion Models](https://github.com/cure-lab/DiffGuard) || **[ICCV'23]**
+
+[WDiscOOD: Out-of-Distribution Detection via Whitened Linear Discriminant Analysis](https://github.com/ivalab/WDiscOOD) || **[ICCV'23]**
+
 [NON-PARAMETRIC OUTLIER SYNTHESIS](https://github.com/deeplearning-wisc/npos) || **[ICLR'23]**
 
 [Data Invariants to Understand Unsupervised Out-of-Distribution Detection](https://github.com/LarsDoorenbos/Data-invariants) || **[ECCV'22]**  
@@ -54,6 +58,8 @@ Class-wise Thresholding for Robust Out-of-Distribution Detection || **[CVPR'22]*
 -----
 
 ### Industrial
+
+[Focus the Discrepancy: Intra- and Inter-Correlation Learning for Image Anomaly Detection](https://github.com/xcyao00/FOD) || **[ICCV'23]**
 
 Fascinating Supervisory Signals and Where to Find Them: Deep Anomaly Detection with Scale Learning || **[ICML'23]**
 
@@ -139,6 +145,8 @@ Adversarial Machine Learning Attacks Against Video Anomaly Detection Systems || 
 
 ### Object Detection
 
+[SAFE: Sensitivity-Aware Features for Out-of-Distribution Object Detection](https://github.com/SamWilso/SAFE_Official) || **[ICCV'23]**
+
 Normalizing Flow based Feature Synthesis for Outlier-Aware Object Detection || **[CVPR'23]** 
 
 -----
@@ -183,12 +191,10 @@ Estimating the Contamination Factor’s Distribution in Unsupervised Anomaly Det
 
 ### Todo
 
-[DiffGuard: Semantic Mismatch-Guided Out-of-Distribution Detection using Pre-trained Diffusion Models](https://github.com/cure-lab/DiffGuard) || **[ICCV'23]**
 
-[WDiscOOD: Out-of-Distribution Detection via Whitened Linear Discriminant Analysis](https://github.com/ivalab/WDiscOOD) || **[ICCV'23]**
 
-[SAFE: Sensitivity-Aware Features for Out-of-Distribution Object Detection](https://github.com/SamWilso/SAFE_Official) || **[ICCV'23]**
 
-[Focus the Discrepancy: Intra- and Inter-Correlation Learning for Image Anomaly Detection](https://github.com/xcyao00/FOD) || **[ICCV'23]**
 
-[Unmasking Anomalies in Road-Scene Segmentation](https://github.com/shyam671/Mask2Anomaly-Unmasking-Anomalies-in-Road-Scene-Segmentation) || **[ICCV'23]**
+
+
+
