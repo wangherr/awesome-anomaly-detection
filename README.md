@@ -2,13 +2,14 @@
 
 |          | 2022 | 2023 | 2024 | 2025 | 2026 |
 |----------|------|------|------|------|------|
-| **AAAI** | Done | Todo |      |      |      |
 | **ICLR** | Done | Done |      |      |      |
 | **CVPR** | Done | Done |      |      |      |
 | **ICML** | Done | Done |      |      |      |
 | **ICCV** | None | Todo |      |      |      |
 | **ECCV** | Done | None |      |      |      |
 | **NIPS** | None | Todo |      |      |      |
+
+[//]: # (| **AAAI** | Done | Todo |      |      |      |)
 
 -----
 
@@ -20,16 +21,16 @@
 
 ### One-class
 
-Mean-Shifted Contrastive Loss for Anomaly Detection || **[AAAI'23]** || pretrained
+[//]: # (Mean-Shifted Contrastive Loss for Anomaly Detection || **[AAAI'23]** || pretrained)
 
 [Deep Anomaly Detection under Labeling Budget Constraints](https://github.com/aodongli/Active-SOEL/tree/main/NTL) || **[ICML'23]** || pretrained
 
 [OpenMix: Exploring Outlier Samples for Misclassification Detection](https://github.com/Impression2805/OpenMix) || **[CVPR'23]** || OE
 
-[iDECODe: In-Distribution Equivariance for Conformal Out-of-Distribution Detection](https://github.com/ramneetk/iDECODe/tree/main) || **[AAAI'22]**
+[//]: # ([iDECODe: In-Distribution Equivariance for Conformal Out-of-Distribution Detection]&#40;https://github.com/ramneetk/iDECODe/tree/main&#41; || **[AAAI'22]**)
 
 
-Locally Varying Distance Transform for Unsupervised Visual Anomaly Detection || **[ECCV'22]**
+Locally Varying Distance Transform for Unsupervised Visual Anomaly Detection || **[ECCV'22]** || OE
 
 
 [Data Invariants to Understand Unsupervised Out-of-Distribution Detection](https://github.com/LarsDoorenbos/Data-invariants) || **[ECCV'22]** 
@@ -38,33 +39,43 @@ Locally Varying Distance Transform for Unsupervised Visual Anomaly Detection || 
 
 ### Set-Vs-Set
 
-Towards In-Distribution Compatible Out-of-Distribution Detection || **[AAAI'23]**
+[//]: # (Towards In-Distribution Compatible Out-of-Distribution Detection || **[AAAI'23]**)
 
-On the Connection between Invariant Learning and Adversarial Training for Out-of-Distribution Generalization || **[AAAI'23]**
+[//]: # ()
+[//]: # (On the Connection between Invariant Learning and Adversarial Training for Out-of-Distribution Generalization || **[AAAI'23]**)
 
-Certifiable Out-of-Distribution Generalization || **[AAAI'23]**
+[//]: # ()
+[//]: # (Certifiable Out-of-Distribution Generalization || **[AAAI'23]**)
 
-Bayesian Cross-Modal Alignment Learning for Few-Shot Out-of-Distribution Generalization || **[AAAI'23]**
+[//]: # ()
+[//]: # (Bayesian Cross-Modal Alignment Learning for Few-Shot Out-of-Distribution Generalization || **[AAAI'23]**)
 
-DrugOOD: Out-of-Distribution Dataset Curator and Benchmark for AI-Aided Drug Discovery – a Focus on Affinity Prediction Problems with Noise Annotations || **[AAAI'23]**
+[//]: # ()
+[//]: # (DrugOOD: Out-of-Distribution Dataset Curator and Benchmark for AI-Aided Drug Discovery – a Focus on Affinity Prediction Problems with Noise Annotations || **[AAAI'23]**)
 
-Out-of-Distribution Generalization by Neural-Symbolic Joint Training || **[AAAI'23]**
+[//]: # ()
+[//]: # (Out-of-Distribution Generalization by Neural-Symbolic Joint Training || **[AAAI'23]**)
 
-COSMOS: Catching Out-of-Context Image Misuse Using Self-Supervised Learning || **[AAAI'23]**
+[//]: # ()
+[//]: # (COSMOS: Catching Out-of-Context Image Misuse Using Self-Supervised Learning || **[AAAI'23]**)
 
-Out-of-Distribution Detection Is Not All You Need || **[AAAI'23]**
+[//]: # ()
+[//]: # (Out-of-Distribution Detection Is Not All You Need || **[AAAI'23]**)
 
-READ: Aggregating Reconstruction Error into Out-of-Distribution Detection || **[AAAI'23]**
+[//]: # ()
+[//]: # (READ: Aggregating Reconstruction Error into Out-of-Distribution Detection || **[AAAI'23]**)
 
-Robustness to Spurious Correlations Improves Semantic Out-of-Distribution Detection || **[AAAI'23]**
+[//]: # ()
+[//]: # (Robustness to Spurious Correlations Improves Semantic Out-of-Distribution Detection || **[AAAI'23]**)
 
 [NON-PARAMETRIC OUTLIER SYNTHESIS](https://github.com/deeplearning-wisc/npos) || **[ICLR'23]**
 
 [iDECODe: In-Distribution Equivariance for Conformal Out-of-Distribution Detection](https://github.com/ramneetk/iDECODe) || **[AAAI'22]**  
 
-[Provable Guarantees for Understanding Out-of-Distribution Detection](https://github.com/peymanmorteza/gem) || **[AAAI'22]**  
+[//]: # ([Provable Guarantees for Understanding Out-of-Distribution Detection]&#40;https://github.com/peymanmorteza/gem&#41; || **[AAAI'22]**  )
 
-Exploring Out-of-Distribution Detection based on Clustering in the Embedding Space || **[AAAI'22]**  
+[//]: # ()
+[//]: # (Exploring Out-of-Distribution Detection based on Clustering in the Embedding Space || **[AAAI'22]**  )
 
 [Data Invariants to Understand Unsupervised Out-of-Distribution Detection](https://github.com/LarsDoorenbos/Data-invariants) || **[ECCV'22]**  
 
@@ -80,7 +91,7 @@ Generative Probabilistic Novelty Detection with Isometric Adversarial Autoencode
 
 [RODD: A Self-Supervised Approach for Robust Out-of-Distribution Detection](https://github.com/umarkhalidAI/RODD) || **[CVPR'22]** || pretrained
 
-Gradient-Based Novelty Detection Boosted by Self-Supervised Binary Classification || **[AAAI'22]**   || pretrained
+[//]: # (Gradient-Based Novelty Detection Boosted by Self-Supervised Binary Classification || **[AAAI'22]**   || pretrained)
 
 [POEM: Out-of-Distribution Detection with Posterior Sampling](https://github.com/deeplearning-wisc/poem) || **[ICML'22]** || OE
 
@@ -139,11 +150,13 @@ AnoDDPM: Anomaly Detection with Denoising Diffusion Probabilistic Models using S
 
 ### Video
 
-Dual Memory Units with Uncertainty Regulation for Weakly Supervised Video Anomaly Detection || **[AAAI'23]**
+[//]: # (Dual Memory Units with Uncertainty Regulation for Weakly Supervised Video Anomaly Detection || **[AAAI'23]**)
 
-Learning Event-Relevant Factors for Video Anomaly Detection || **[AAAI'23]**
+[//]: # ()
+[//]: # (Learning Event-Relevant Factors for Video Anomaly Detection || **[AAAI'23]**)
 
-MGFN: Magnitude-Contrastive Glance-and-Focus Network for Weakly-Supervised Video Anomaly Detection || **[AAAI'23]**
+[//]: # ()
+[//]: # (MGFN: Magnitude-Contrastive Glance-and-Focus Network for Weakly-Supervised Video Anomaly Detection || **[AAAI'23]**)
 
 Diversity-Measurable Anomaly Detection || **[CVPR'23]** 
 
@@ -177,11 +190,13 @@ Learning Second Order Local Anomaly for General Face Forgery Detection || **[CVP
 Adversarial Machine Learning Attacks Against Video Anomaly Detection Systems || **[CVPR'22]**
 
 
-A Causal Inference Look at Unsupervised Video Anomaly Detection || **[AAAI'22]**  
+[//]: # (A Causal Inference Look at Unsupervised Video Anomaly Detection || **[AAAI'22]**  )
 
-Self-Training Multi-Sequence Learning with Transformer for Weakly Supervised Video Anomaly Detection || **[AAAI'22]** 
+[//]: # ()
+[//]: # (Self-Training Multi-Sequence Learning with Transformer for Weakly Supervised Video Anomaly Detection || **[AAAI'22]** )
 
-Comprehensive Regularization in a Bi-directional Predictive Network for Video Anomaly Detection || **[AAAI'22]** 
+[//]: # ()
+[//]: # (Comprehensive Regularization in a Bi-directional Predictive Network for Video Anomaly Detection || **[AAAI'22]** )
 
 -----
 
@@ -231,8 +246,11 @@ Estimating the Contamination Factor’s Distribution in Unsupervised Anomaly Det
 
 ### Todo
 
-Clustering What Matters: Optimal Approximation for Clustering with Outliers || **[AAAI'23]**
-Diversity Maximization in the Presence of Outliers || **[AAAI'23]**
-Detecting Anomalous Networks of Opioid Prescribers and Dispensers in Prescription Drug Data || **[AAAI'23]**
-Attention-Conditioned Augmentations for Self-Supervised Anomaly Detection and Localization || **[AAAI'23]**
+[//]: # (Clustering What Matters: Optimal Approximation for Clustering with Outliers || **[AAAI'23]**)
+
+[//]: # (Diversity Maximization in the Presence of Outliers || **[AAAI'23]**)
+
+[//]: # (Detecting Anomalous Networks of Opioid Prescribers and Dispensers in Prescription Drug Data || **[AAAI'23]**)
+
+[//]: # (Attention-Conditioned Augmentations for Self-Supervised Anomaly Detection and Localization || **[AAAI'23]**)
 
