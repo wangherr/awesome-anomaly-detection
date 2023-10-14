@@ -31,7 +31,7 @@ Locally Varying Distance Transform for Unsupervised Visual Anomaly Detection || 
 
 ### Set-Vs-Set
 
-
+Understanding the Feature Norm for Out-of-Distribution Detection || **[ICCV'23]**
 
 [DiffGuard: Semantic Mismatch-Guided Out-of-Distribution Detection using Pre-trained Diffusion Models](https://github.com/cure-lab/DiffGuard) || **[ICCV'23]**
 
@@ -68,6 +68,14 @@ Class-wise Thresholding for Robust Out-of-Distribution Detection || **[CVPR'22]*
 -----
 
 ### Industrial
+
+Inter-Realization Channels: Unsupervised Anomaly Detection Beyond One-Class Classification || **[ICCV'23]**
+
+FastRecon: Few-shot Industrial Anomaly Detection via Fast Feature Reconstruction || **[ICCV'23]**
+
+Unsupervised Surface Anomaly Detection with Diffusion Probabilistic Model || **[ICCV'23]**
+
+PNI : Industrial Anomaly Detection using Position and Neighborhood Information || **[ICCV'23]**
 
 [Focus the Discrepancy: Intra- and Inter-Correlation Learning for Image Anomaly Detection](https://github.com/xcyao00/FOD) || **[ICCV'23]**
 
@@ -120,6 +128,14 @@ AnoDDPM: Anomaly Detection with Denoising Diffusion Probabilistic Models using S
 
 ### Video
 
+Video Anomaly Detection via Sequentially Learning Multiple Pretext Tasks || **[ICCV'23]**
+
+TeD-SPAD: Temporal Distinctiveness for Self-Supervised Privacy-Preservation for Video Anomaly Detection || **[ICCV'23]**
+
+Multimodal Motion Conditioned Diffusion Model for Skeleton-based Video Anomaly Detection || **[ICCV'23]**
+
+Feature Prediction Diffusion Model for Video Anomaly Detection || **[ICCV'23]**
+
 Diversity-Measurable Anomaly Detection || **[CVPR'23]** 
 
 DeSTSeg: Segmentation Guided Denoising Student-Teacher for Anomaly Detection || **[CVPR'23]** 
@@ -154,6 +170,8 @@ Adversarial Machine Learning Attacks Against Video Anomaly Detection Systems || 
 -----
 
 ### Object Detection
+
+Deep Feature Deblurring Diffusion for Detecting Out-of-Distribution Objects || **[ICCV'23]**
 
 [SAFE: Sensitivity-Aware Features for Out-of-Distribution Object Detection](https://github.com/SamWilso/SAFE_Official) || **[ICCV'23]**
 
@@ -201,10 +219,38 @@ Estimating the Contamination Factor’s Distribution in Unsupervised Anomaly Det
 
 ### Todo
 
+Unilaterally Aggregated Contrastive Learning with Hierarchical Augmentation for Anomaly Detection
 
+Normalizing Flows for Human Pose Anomaly Detection
 
+Anomaly Detection using Score-based Perturbation Resilience
 
+Remembering Normality: Memory-guided Knowledge Distillation for Unsupervised Anomaly Detection
 
+Template-guided Hierarchical Feature Restoration for Anomaly Detection
 
+Focus the Discrepancy: Intra- and Inter-Correlation Learning for Image Anomaly Detection
 
+Anomaly Detection Under Distribution Shift
 
+Distilling Large Vision-Language Model with Out-of-Distribution Generalizability
+
+DIFFGUARD: Semantic Mismatch-Guided Out-of-Distribution Detection Using Pre-Trained Diffusion Models
+
+Adaptive Calibrator Ensemble: Navigating Test Set Difficulty in Out-of-Distribution Scenarios
+
+Nearest Neighbor Guidance for Out-of-Distribution Detection
+
+SAFE: Sensitivity-Aware Features for Out-of-Distribution Object Detection
+
+Residual Pattern Learning for Pixel-Wise Out-of-Distribution Detection in Semantic Segmentation
+
+Unified Out-Of-Distribution Detection: A Model-Specific Perspective
+
+Simple and Effective Out-of-Distribution Detection via Cosine-based Softmax Loss
+
+Revisit PCA-based Technique for Out-of-Distribution Detection
+
+Hierarchical Visual Categories Modeling: A Joint Representation Learning and Density Estimation Framework for Out-of-Distribution Detection
+
+WDiscOOD: Out-of-Distribution Detection via Whitened Linear Discriminant Analysis
